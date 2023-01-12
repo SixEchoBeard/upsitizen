@@ -2,7 +2,11 @@
 
 Upsitizen mobile application
 
-<img alt="Upsitizen app" src="https://live.staticflickr.com/65535/52622468973_8faa16c95f.jpg" width="350" align="">
+<p align="center">
+  <img alt="Upsitizen app" src="https://live.staticflickr.com/65535/52622468973_8faa16c95f.jpg" width="350">
+</p>
+
+
 
 ## Hello this my first mobile app that was created by using Flutter framework
 ## I also included a couple of things since its my Final Year Project such 
