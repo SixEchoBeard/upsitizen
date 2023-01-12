@@ -21,25 +21,11 @@ Upsitizen mobile application
   </a>
 * Demo
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
 
-<video src="https://youtu.be/VgIWbQn9P54" width=180/>
+https://user-images.githubusercontent.com/103263233/211996190-de0b74ed-37d9-4e4f-b2eb-3759199b2027.mp4
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=VgIWbQn9P54&t=24s)
 
-(430) Upsitizen Mobile Application build with Flutter Frameworks - YouTube
 
 ### There is still lot of improvement needs to be made by I still enjoys building this application hope that I can learn flutter deeper and create more interesting apps in the future :smiley:
 
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://www.youtube.com/watch?v=VgIWbQn9P54&t=24s" 
-    frameborder="0" allowfullscreen></iframe>
-</div>
-
-[![Fibonacci RMI Java EE](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
-
-https://user-images.githubusercontent.com/103263233/211990543-e589f940-8a25-4199-a3a3-72331067965f.mp4
 
