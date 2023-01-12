@@ -1,6 +1,9 @@
 # Upsitizen Mobile application
+</br>
 
 Upsitizen mobile application
+</br>
+</br>
 
 <p align="center">
   <img alt="Upsitizen app" src="https://live.staticflickr.com/65535/52622468973_8faa16c95f.jpg" width="350">
