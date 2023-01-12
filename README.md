@@ -23,7 +23,7 @@ Upsitizen mobile application
 
 <video src="https://youtu.be/VgIWbQn9P54" width=180/>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/VgIWbQn9P54)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=VgIWbQn9P54&t=24s)
 
 (430) Upsitizen Mobile Application build with Flutter Frameworks - YouTube
 
