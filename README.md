@@ -28,3 +28,13 @@ Upsitizen mobile application
 (430) Upsitizen Mobile Application build with Flutter Frameworks - YouTube
 
 ### There is still lot of improvement needs to be made by I still enjoys building this application hope that I can learn flutter deeper and create more interesting apps in the future :smiley:
+
+<div class="embed-container">
+    <iframe width="640" height="390" 
+    src="https://youtu.be/VgIWbQn9P54" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+https://user-images.githubusercontent.com/103263233/211990543-e589f940-8a25-4199-a3a3-72331067965f.mp4
+
