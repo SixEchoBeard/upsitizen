@@ -35,6 +35,7 @@ Upsitizen mobile application
     frameborder="0" allowfullscreen></iframe>
 </div>
 
+[![Fibonacci RMI Java EE](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
 
 https://user-images.githubusercontent.com/103263233/211990543-e589f940-8a25-4199-a3a3-72331067965f.mp4
 
