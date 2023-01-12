@@ -21,6 +21,10 @@ Upsitizen mobile application
   </a>
 * Demo
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 <video src="https://youtu.be/VgIWbQn9P54" width=180/>
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=VgIWbQn9P54&t=24s)
