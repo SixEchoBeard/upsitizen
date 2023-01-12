@@ -31,7 +31,7 @@ Upsitizen mobile application
 
 <div class="embed-container">
     <iframe width="640" height="390" 
-    src="https://youtu.be/VgIWbQn9P54" 
+    src="https://www.youtube.com/watch?v=VgIWbQn9P54&t=24s" 
     frameborder="0" allowfullscreen></iframe>
 </div>
 
