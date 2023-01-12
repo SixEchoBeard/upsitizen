@@ -21,4 +21,8 @@ Upsitizen mobile application
   </a>
 * Demo
 
+<video src='https://youtu.be/VgIWbQn9P54' width=180/>
+
+
+
 ### There is still lot of improvement needs to be made by I still enjoys building this application hope that I can learn flutter deeper and create more interesting apps in the future :smiley:
